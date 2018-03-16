@@ -179,7 +179,7 @@ alignmentZones = (
 "{0, -16}",
 "{-210, -14}"
 );
-ascender = 990;
+ascender = 790;
 capHeight = 752;
 customParameters = (
 {
@@ -100722,7 +100722,6 @@ name = Hairline;
 weightClass = Thin;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = weightClass;
@@ -100738,7 +100737,6 @@ name = Thin;
 weightClass = ExtraLight;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = weightClass;
@@ -100754,7 +100752,6 @@ name = ExtraLight;
 weightClass = Light;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = weightClass;
@@ -100783,7 +100780,6 @@ name = Regular;
 weightClass = Medium;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = weightClass;
@@ -100799,7 +100795,6 @@ name = Medium;
 weightClass = DemiBold;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = weightClass;
@@ -100815,7 +100810,6 @@ name = Bold;
 weightClass = Bold;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = weightClass;
