@@ -1,0 +1,12 @@
+red=Spec
+orange=Spec+Term
+brown=Brown
+yellow=Term
+lightGreen=Rnd+Term
+darkGreen=Rnd+Spec+Term
+lightBlue=Rnd
+darkBlue=Rnd+Spec
+purple=Purple
+magenta=Magenta
+lightGray=Light Gray
+charcoal=Charcoal
