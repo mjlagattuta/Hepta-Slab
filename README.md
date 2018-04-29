@@ -5,6 +5,8 @@ Hepta Slab is a slab-serif revival based on specimens of antique genre types fro
 
 
 ![Character Set](documentation/images/v0.008-waterfall.svg)
+
+
 ![Hepta Slab Waterfall](documentation/images/v0.008-charSet.svg)
 
 ## Features
