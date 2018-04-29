@@ -3,6 +3,7 @@
 ## Description
 Hepta Slab is a slab-serif revival based on specimens of antique genre types from Bruce and Co., primarily Antique 307. The family consists of 9 weights with the extremes intended for display use and the middle weights for setting text.
 
+<br/>
 
 ![Character Set](documentation/images/v0.008-waterfall.svg)
 
