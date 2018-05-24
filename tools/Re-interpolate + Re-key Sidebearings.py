@@ -2,15 +2,25 @@
 # -*- coding: utf-8 -*-
 
 __doc__="""
-Reinterpolates sidebearings and updates metrics keys for selected layers for active master.
-(References the adjacent master for keys, if none then no layer key is added)
+Reinterpolates sidebearings and then updates metrics keys accordingly for selected layers for active master.
+References the adjacent master for keys, if none then no layer key is added.
+Will reinterpolate and rekey for intermediate masters, but for bookend masters it will only rekey
 """
 
 import GlyphsApp
 import re
 
 font = Glyphs.font
+masterTotal = len(font.masters)
 masterIndex = font.masterIndex
+
+# Sets bolder adjacent master as reference for keys
+refIndex = masterIndex + 1
+
+# If boldest master, reference the only adjacent master
+if masterIndex == (masterTotal - 1):
+    refIndex = masterIndex - 1
+
 layers = font.selectedLayers
 
 leftSide = True
@@ -21,8 +31,8 @@ def checkKey(key, side):
     # Left side
     if side == True:
         # If layer key on adjacent master layer, return reference
-        if key.parent.layers[masterIndex + 1].leftMetricsKey != None:
-            keyA = re.sub('-\d+', '', key.parent.layers[masterIndex + 1].leftMetricsKey)
+        if key.parent.layers[refIndex].leftMetricsKey != None:
+            keyA = re.sub('-\d+', '', key.parent.layers[refIndex].leftMetricsKey)
             keyB = re.sub('\.\d+', '', keyA)
             key = re.sub('=*' '\d*' '\+*' '/*', '', keyB)
             return (key, True)
@@ -38,8 +48,8 @@ def checkKey(key, side):
     # Right side
     else:
         # If layer key on adjacent master layer, return reference
-        if key.parent.layers[masterIndex + 1].rightMetricsKey != None:
-            keyA = re.sub('-\d+', '', key.parent.layers[masterIndex + 1].rightMetricsKey)
+        if key.parent.layers[refIndex].rightMetricsKey != None:
+            keyA = re.sub('-\d+', '', key.parent.layers[refIndex].rightMetricsKey)
             keyB = re.sub('\.\d+', '', keyA)
             key = re.sub('=*' '\d*' '\+*' '/*', '', keyB)
             return (key, True)
@@ -117,7 +127,9 @@ for layer in layers:
         # Add new layer as master layer
         layer.parent.layers.append(newLayer)
 
-        newLayer.reinterpolate()
+        # Prevents metrics change on bookend masters
+        if masterIndex != 0 and masterIndex != (masterTotal - 1):
+            newLayer.reinterpolate()
 
         # Copy updated sidebearings to original layer
         layer.LSB = newLayer.LSB
