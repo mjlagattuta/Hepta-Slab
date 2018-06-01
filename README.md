@@ -5,10 +5,10 @@ Hepta Slab is a slab-serif revival based on specimens of antique genre types fro
 
 <br/>
 
-![Character Set](documentation/images/v0.008-waterfall.svg)
+![Character Set](docs/images/v0.008-waterfall.svg)
 
 
-![Hepta Slab Waterfall](documentation/images/v0.008-charSet.svg)
+![Hepta Slab Waterfall](docs/images/v0.008-charSet.svg)
 
 ## Features
 Features include lining numerals, oldstyle numerals, case sensitive punctuation, fractions, superior and inferior numerals as well as multiple stylistic alternates.
