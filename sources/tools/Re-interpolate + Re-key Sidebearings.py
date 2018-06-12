@@ -79,6 +79,19 @@ def genKey(current, key, side, refName):
 
     if refName == '':
         return None
+    elif re.match('{.*}', key.parent.layers[-1].name) != None:
+        # If left
+        if side == True:
+            if flip == False:
+                ref = genBraceRef(refName, key.parent.layers[-1].name, True)
+            else:
+                ref = genBraceRef(refName, key.parent.layers[-1].name, False)
+        # If right
+        else:
+            if flip == False:
+                ref = genBraceRef(refName, key.parent.layers[-1].name, False)
+            else:
+                ref = genBraceRef(refName, key.parent.layers[-1].name, True)
     else:
         # If left
         if side == True:
@@ -110,6 +123,36 @@ def genKey(current, key, side, refName):
                 refName = ''
             return '==|' + refName + '+' + str(difference)
 
+
+# Takes glyph name as reference by brace layer, generates an intepolation based on same weight
+def genBraceRef(braceRefName, braceString, side):
+    # Convert brace layer name to integer
+    braceValue = int(re.sub('{*}*', '', braceString))
+    
+    braceRefLayer = font.glyphs[braceRefName].layers[masterIndex]
+
+    # Copies layer on currently active master
+    newLayerBrace = braceRefLayer.copy()
+    
+     # Add new layer as master layer
+    font.glyphs[braceRefName].layers.append(newLayerBrace)
+
+    # Set layer name to correct brace name
+    newLayerBrace.name = braceString
+
+    # Reinterpolate the temporary brace layer
+    newLayerBrace.reinterpolate()
+
+    if side == True:
+        braceRefValue = newLayerBrace.LSB
+    else:
+        braceRefValue = newLayerBrace.RSB
+
+    # Delete inteprolated layer
+    del(font.glyphs[braceRefName].layers[newLayerBrace.layerId])
+    
+    return braceRefValue
+
 # Iterates through selected layers for active master
 for layer in layers:
     try:
@@ -129,6 +172,9 @@ for layer in layers:
 
         # Prevents metrics change on bookend masters
         if masterIndex != 0 and masterIndex != (masterTotal - 1):
+            newLayer.reinterpolate()
+            
+        if re.match('{.*}', newLayer.name) != None:
             newLayer.reinterpolate()
 
         # Copy updated sidebearings to original layer
