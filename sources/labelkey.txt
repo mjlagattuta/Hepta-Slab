@@ -1,6 +1,6 @@
-red=Brace Layer
-orange=Brace + Terminal
-brown=Brace + Bracket
+red=Pinch Correction
+orange=Pinch + Terminal
+brown=
 yellow=Terminal
 lightGreen=
 darkGreen=
