@@ -1,9 +1,9 @@
-Hepta Slab Basic Set:
 Hepta Slab
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-/a.sc/b.sc/c.sc/d.sc/e.sc/f.sc/g.sc/h.sc/i.sc/j.sc/k.sc/l.sc/m.sc/n.sc/o.sc/p.sc/q.sc/r.sc/s.sc/t.sc/u.sc/v.sc/w.sc/x.sc/y.sc/z.sc
-a/a.ss02 bcdef/f.ss01 g/g.ss02 hıiȷjklmnopqrst/t.ss01 uvwxyz &
-/f_b/f_b.ss01/f_f/f_f.ss01/f_f_i/f_f_i.ss01/f_f_l/f_f_l.ss01/f_h/f_h.ss01/f_k/f_k.ss01 ﬁ/fi.ss01 ﬂ/fl.ss01  /T_h/c_h/c_t/s_t  
+ABCDE/E.ss04 F/F.ss04 GHIJKLMNOPQRSTUVW/W.ss01 XYZ
+/a.sc/b.sc/c.sc/d.sc/e.sc/e.sc.ss04/f.sc/f.sc.ss04/g.sc/h.sc/i.sc/j.sc/k.sc/l.sc/m.sc/n.sc/o.sc/p.sc/q.sc/r.sc/s.sc/t.sc/u.sc/v.sc/w.sc/w.sc.ss01/x.sc/y.sc/z.sc
+a/a.ss02 bcdef/f.ss01 g/g.ss02 hıiȷjklmnopqrst/t.ss01 uvw/w.ss01 xyz &
+/f_b/f_b.ss01/f_f/f_f.ss01/f_f_i/f_f_i.ss01/f_f_l/f_f_l.ss01/f_h/f_h.ss01/f_k/f_k.ss01/f_i/f_i.ss01/f_l/f_l.ss01/g_j.liga/g_j.liga.ss02/j_j.liga
+/T_h/c_h/c_t/s_t   0123456789
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
@@ -310,6 +310,12 @@ ZNZOZPZQZRZSZTZUZVZWZXZYZZZ
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 Latin Basic Spacing/Kerning Camelcase:
+nAnBnCnDnEnFnGnHnInJnKnLnMn
+nNnOnPnQnRnSnTnUnVnWnXnYnZn
+
+oAoBoCoDoEoFoGoHoIoJoKoLoMo
+oNoOoPoQoRoSoToUoVoWoXoYoZo
+
 AaAbAcAdAeAfAgAhAiAjAkAlAmA
 AnAoApAqArAsAtAuAvAwAxAyAzA
 
@@ -472,6 +478,12 @@ Latin Basic Spacing/Kerning Smallcaps:
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 Latin Basic Spacing/Kerning Smallcaps Camelcase:
+/h.sc A/h.sc B/h.sc C/h.sc D/h.sc E/h.sc F/h.sc G/h.sc H/h.sc I/h.sc J/h.sc K/h.sc L/h.sc M/h.sc 
+/h.sc N/h.sc O/h.sc P/h.sc Q/h.sc R/h.sc S/h.sc T/h.sc U/h.sc V/h.sc W/h.sc X/h.sc Y/h.sc Z/h.sc 
+
+/o.sc A/o.sc B/o.sc C/o.sc D/o.sc E/o.sc F/o.sc G/o.sc H/o.sc I/o.sc J/o.sc K/o.sc L/o.sc M/o.sc 
+/o.sc N/o.sc O/o.sc P/o.sc Q/o.sc R/o.sc S/o.sc T/o.sc U/o.sc V/o.sc W/o.sc X/o.sc Y/o.sc Z/o.sc 
+
 A/a.sc A/b.sc A/c.sc A/d.sc A/e.sc A/f.sc A/g.sc A/h.sc A/i.sc A/j.sc A/k.sc A/l.sc A/m.sc A
 A/n.sc A/o.sc A/p.sc A/q.sc A/r.sc A/s.sc A/t.sc A/u.sc A/v.sc A/w.sc A/x.sc A/y.sc A/z.sc A
 
@@ -557,7 +569,7 @@ Aardvark Ablution Acrimonious Adventures Aeolian Africa Agamemnon Ahoy Aileron A
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-Latin Basic Spacing/Kerning Uppercase (Words):
+Latin Basic Kerning Uppercase (Words):
 AARDVARK ABLUTION ACRIMONIOUS ADVENTURES AEOLIAN AFRICA AGAMEMNON AHOY AILERON AJAX AKIMBO ALTRUISM AMERICA ANECDOTE AORTA APTITUDE AQUARIUM ARCADE ASPARTAME ATTRITION AURELIUS AVUNCULAR AWNING AXMINSTER AYERS AZURE BANISHMENT BENIGHTED BHAGAVAD BIBLICAL BJORN BLANCMANGE BOLTON BRUSQUE BURNISH BWANA BYZANTIUM CABBALA CETACEAN CHARLEMAGNE CICERO CLAMOROUS CNIDARIAN CONIFER CRUSTACEAN CTENOID CULLED CYNOSURE CZARINA DALMATIAN DELPHI DHURRIE DINNER DJINN DOCUMENT DRILL DUNLEARY DVORAK DWINDLE DYNAMO EAMES EBULLIENT ECHO EDIFY EELS EFTSOONS EGRESS EHRLICH EINDHOVEN EJECT EKISTICS ELZEVIR EMINENCE ENNOBLE EOCENE EPHEMERAL EQUATOR ERSTWHILE ESTIENNE ETIQUETTE EUCALYPTUS EVERYMAN EWEN EXETER EYELET EZEKIEL FANFARE FEROCIOUS FFESTINIOG FINICKY FJORD FLANDERS FORESTRY FRILLS FURNITURE FYLFOT GARRULOUS GENEROUS GHASTLY GIMLET GLORIOUS GNOMON GOLFER GRIZZLED GUMPTION GWENDOLYN GYMKHANA HARROW HEIFER HINDEMITH HORACE HSI HUBRIS HYBRID IAMBIC IBARRA ICHTHYOLOGY IDENTITY IEVGENY IFRIT IGNITE IHRE IKON ILIAD IMMINENT INNOVATION IOLANTHE IPANEMA IRASCIBLE ISLAND ITALIC IVORY IWIS IXTAPA IYAR IZZARD JANACEK JENSON JITTER JOINERY JR. JUNGIAN KAISER KENILWORTH KHAKI KINDRED KLONDIKE KNOWLEDGE KOHLRABI KRAKEN KUDZU KVETCH KWACHA KYRIE LABRADOR LENT LHASA LINIMENT LLAMA LONGBOAT LUDDITE LYCEUM MANDARIN MBANDAKA MCINTYRE MDINA MENDACIOUS MFG. MG MILLINERY MLLE. MME. MNEMONIC MORIBUND MR. MS. MTN. MUNITIONS MYRA NARRAGANSETT NEFARIOUS NGUYEN NILE NKOSO NNENNA NONSENSE NR. NUNNERY NYACK OARSMAN OBLATE OCULAR ODESSA OEDIPUS OFTEN OGRE OHMS OILERS OKRA OLFACTORY OMINOUS ONEROUS OOGAMOUS OPINE ORNATE OSSIFIED OTHELLO OUBLIETTE OVENS OWLISH OXEN OYSTER OZYMANDIAS PARISIAN PB PD. PENROSE PFENNIG PG. PHARMACY PIROUETTE PLEISTOCENE PNEUMATIC PORRIDGE PP. PRINCIPLE PSALTERY PTARMIGAN PUNDIT PYRRHIC QAID QED QIBRIS QOM QUILL RANSOM RB. RD. RENFIELD RHEUMATIC RINGLET RM. RONSARD RP. RTE. RUNCIBLE RWANDA RYE SALACIOUS SBEITLA SCHERZO SERPENTINE SFORZA SHACKLES SINFUL SJOERD SKULL SLALOM SMELTING SNIPE SORBONNE SPARTAN SQUIRE SRI STULTIFIED SUMMONER SVELTE SWARTHY SYKES SZENTENDRE TARRAGON TBLISI TCHERNY TENNYSON THAUMATURGE TINCTURE TLALOC TOREADOR TREACHEROUS TSUNAMI TURKEY TWINE TYROLEAN TZARA UBIQUITOUS UCELLO UDDER UFOLOGY UGRIC UHLAN UITLANDER UKULELE ULSTER UMBER UNGUENT UOMO UPLIFT URSINE USURIOUS UTRECHT UVULA UXORIOUS UZBEK VANISHED VD. VENOMOUS VINDICATE VORACIOUS VRILLIER VS. VT. VULNERABLE VYING WASHINGTON WENDELL WHARF WINDOW WM. WORTH WRUNG WT. WUNDERMAN WYES XANTHAN XENON XIAO XMAS XRAY XUXA XYLEM YARROW YBARRA YCAIR YDS. YELLOWSTONE YGGDRASIL YIN YLANG YOURS YPSILANTI YQUEM YRS. YS. YTTERBIUM YUNNAN YVONNE ZANZIBAR ZERO ZHORA ZINFANDEL ZONE ZUNI ZWIEBACK ZYGOTE
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
@@ -600,7 +612,7 @@ inioipiqirisitiuiviwixiyizi
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-i-accent Kerning Camelcase
+i-accent Kerning Camelcase:
 iAiBiCiDiEiFiGiHiIiJiKiLiMi
 iNiOiPiQiRiSiTiUiViWiXiYiZi
 
@@ -630,8 +642,39 @@ iNiOiPiQiRiSiTiUiViWiXiYiZi
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
+Horn glyphs kerning:
+ơaơbơcơdơeơfơgơhơiơjơkơlơmơ
+ơnơoơpơqơrơsơtơuơvơwơxơyơzơ
+ơAơBơCơDơEơFơGơHơIơJơKơLơMơ
+ơNơOơPơQơRơSơTơUơVơWơXơYơZ
+
+ƠaƠbƠcƠdƠeƠfƠgƠhƠiƠjƠkƠlƠmƠ
+ƠnƠoƠpƠqƠrƠsƠtƠuƠvƠwƠxƠyƠzƠ
+
+ƠAƠBƠCƠDƠEƠFƠGƠHƠIƠJƠKƠLƠMƠ
+ƠNƠOƠPƠQƠRƠSƠTƠUƠVƠWƠXƠYƠZƠ
+
+ưaưbưcưdưeưfưgưhưiưjưkưlưmư
+ưnưoưpưqưrưsưtưuưvưwưxưyưzư
+
+ưAưBưCưDưEưFưGưHưIưJưKưLưMư
+ưNưOưPưQưuRưSưTưUưVưWưXưYưZư
+
+ƯaƯbƯcƯdƯeƯfƯgƯhƯiƯjƯkƯlƯmƯ
+ƯnƯoƯpƯqƯrƯsƯtƯuƯvƯwƯxƯyƯzƯ
+
+ƯAƯBƯCƯDƯEƯFƯGƯHƯIƯJƯKƯLƯMƯ
+ƯNƯOƯPƯQƯRƯSƯTƯUƯVƯWƯXƯYƯZƯ
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 Numerals:
-0123456789 /zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf  /zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf
+01/one.ss03 2/two.ss03 34567/seven.ss03 89
+/zero.tf/one.tf/one.tf.ss03/two.tf/two.tf.ss03/three.tf/four.tf/five.tf/six.tf/seven.tf/seven.tf.ss03/eight.tf/nine.tf
+/zero.osf/one.osf/one.osf.ss03/two.osf/two.osf.ss03/three.osf/four.osf/five.osf/six.osf/seven.osf/seven.osf.ss03/eight.osf/nine.osf
+/zero.tosf/one.tosf/one.tosf.ss03/two.tosf/two.tosf.ss03/three.tosf/four.tosf/five.tosf/six.tosf/seven.tosf/seven.tosf.ss03/eight.tosf/nine.tosf
+/zero.sc/one.sc/one.sc.ss03/two.sc/two.sc.ss03/three.sc/four.sc/five.sc/six.sc/seven.sc/seven.sc.ss03/eight.sc/nine.sc
+/zero.tf.sc/one.tf.sc/one.tf.sc.ss03/two.tf.sc/two.tf.sc.ss03/three.tf.sc/four.tf.sc/five.tf.sc/six.tf.sc/seven.tf.sc/seven.tf.sc.ss03/eight.tf.sc/nine.tf.sc
 ₀₁₂₃₄₅₆₇₈₉ /zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom  /zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr ªº ⁰¹²³⁴⁵⁶⁷⁸⁹
 
 H₀H₁H₂H₃H₄H₅H₆H₇H₈H₉H
@@ -648,6 +691,7 @@ O ⁄ O½O¼O¾O⅛O⅜O⅝O⅞O
 Numerals Spacing:
 0/Placeholder 0/Placeholder 1/Placeholder 2/Placeholder 3/Placeholder 4/Placeholder 5/Placeholder 6/Placeholder 7/Placeholder 8/Placeholder 9/Placeholder   -01234567890-
 /zero.osf/Placeholder/zero.osf/Placeholder/one.osf/Placeholder/two.osf/Placeholder/three.osf/Placeholder/four.osf/Placeholder/five.osf/Placeholder/six.osf/Placeholder/seven.osf/Placeholder/eight.osf/Placeholder/nine.osf/Placeholder   -/zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf -
+
 000102030405060708090
 101112131415161718191
 202122232425262728292
@@ -661,7 +705,7 @@ Numerals Spacing:
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-Num/Letter kern :
+Num/Letter Kern (Lowercase):
 0a0b0c0d0e0f0g0h0i0j0k0l0m0
 0n0o0p0q0r0s0t0u0v0w0x0y0z0
 
@@ -692,6 +736,9 @@ Num/Letter kern :
 9a9b9c9d9e9f9g9h9i9j9k9l9m9
 9n9o9p9q9r9s9t9u9v9w9x9y9z9
 
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Num/Letter Kern (Uppercase):
 0A0B0C0D0E0F0G0H0I0J0K0L0M0
 0N0O0P0Q0R0S0T0U0V0W0X0Y0Z0
 
@@ -771,7 +818,7 @@ Case-Sensitive Glyphs:
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-Punctuation Kerning:
+Punctuation Kerning (Lowercase):
 ’a’b’c’d’e’f’g’h’i’j’k’l’m’n’o’p’q’r’s’t’u’v’w’x’y’z’
 ‘a‘b‘c‘d‘e‘f‘g‘h‘i‘j‘k‘l‘m‘n‘o‘p‘q‘r‘s‘t‘u‘v‘w‘x‘y‘z‘
 .a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z.
@@ -780,19 +827,86 @@ Punctuation Kerning:
 “a“b“c“d“e“f“g“h“i“j“k“l“m“n“o“p“q“r“s“t“u“v“w“x“y“z“
 ”a”b”c”d”e”f”g”h”i”j”k”l”m”n”o”p”q”r”s”t”u”v”w”x”y”z”
 
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Punctuation Kerning (Uppercase):
+’A’B’C’D’E’F’G’H’I’J’K’L’M’N’O’P’Q’R’S’T’U’V’W’X’Y’Z’
+‘A‘B‘C‘D‘E‘F‘G‘H‘I‘J‘K‘L‘M‘N‘O‘P‘Q‘R‘S‘T‘U‘V‘W‘X‘Y‘Z‘
+.A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.
+;A;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P;Q;R;S;T;U;V;W;X;Y;Z;
+:A:B:C:D:E:F:G:H:I:J:K:L:M:N:O:P:Q:R:S:T:U:V:W:X:Y:Z:
+“A“B“C“D“E“F“G“H“I“J“K“L“M“N“O“P“Q“R“S“T“U“V“W“X“Y“Z“
+”A”B”C”D”E”F”G”H”I”J”K”L”M”N”O”P”Q”R”S”T”U”V”W”X”Y”Z”
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Punctuation Kerning (SmallCaps):
+’/a.sc ’/b.sc ’/c.sc ’/d.sc ’/e.sc ’/f.sc ’/g.sc ’/h.sc ’/i.sc ’/j.sc ’/k.sc ’/l.sc ’/m.sc ’/n.sc ’/o.sc ’/p.sc ’/q.sc ’/r.sc ’/s.sc ’/t.sc ’/u.sc ’/v.sc ’/w.sc ’/x.sc ’/y.sc ’/z.sc ’
+‘/a.sc ‘/b.sc ‘/c.sc ‘/d.sc ‘/e.sc ‘/f.sc ‘/g.sc ‘/h.sc ‘/i.sc ‘/j.sc ‘/k.sc ‘/l.sc ‘/m.sc ‘/n.sc ‘/o.sc ‘/p.sc ‘/q.sc ‘/r.sc ‘/s.sc ‘/t.sc ‘/u.sc ‘/v.sc ‘/w.sc ‘/x.sc ‘/y.sc ‘/z.sc ‘
+./a.sc ./b.sc ./c.sc ./d.sc ./e.sc ./f.sc ./g.sc ./h.sc ./i.sc ./j.sc ./k.sc ./l.sc ./m.sc ./n.sc ./o.sc ./p.sc ./q.sc ./r.sc ./s.sc ./t.sc ./u.sc ./v.sc ./w.sc ./x.sc ./y.sc ./z.sc .
+;/a.sc ;/b.sc ;/c.sc ;/d.sc ;/e.sc ;/f.sc ;/g.sc ;/h.sc ;/i.sc ;/j.sc ;/k.sc ;/l.sc ;/m.sc ;/n.sc ;/o.sc ;/p.sc ;/q.sc ;/r.sc ;/s.sc ;/t.sc ;/u.sc ;/v.sc ;/w.sc ;/x.sc ;/y.sc ;/z.sc ;
+:/a.sc :/b.sc :/c.sc :/d.sc :/e.sc :/f.sc :/g.sc :/h.sc :/i.sc :/j.sc :/k.sc :/l.sc :/m.sc :/n.sc :/o.sc :/p.sc :/q.sc :/r.sc :/s.sc :/t.sc :/u.sc :/v.sc :/w.sc :/x.sc :/y.sc :/z.sc :
+“/a.sc “/b.sc “/c.sc “/d.sc “/e.sc “/f.sc “/g.sc “/h.sc “/i.sc “/j.sc “/k.sc “/l.sc “/m.sc “/n.sc “/o.sc “/p.sc “/q.sc “/r.sc “/s.sc “/t.sc “/u.sc “/v.sc “/w.sc “/x.sc “/y.sc “/z.sc “
+”/a.sc ”/b.sc ”/c.sc ”/d.sc ”/e.sc ”/f.sc ”/g.sc ”/h.sc ”/i.sc ”/j.sc ”/k.sc ”/l.sc ”/m.sc ”/n.sc ”/o.sc ”/p.sc ”/q.sc ”/r.sc ”/s.sc ”/t.sc ”/u.sc ”/v.sc ”/w.sc ”/x.sc ”/y.sc ”/z.sc ”
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Multi-Punctuation Kerning (Lowercase):
 ’.a.’.b.’.c.’.d.’.e.’.f.’.g.’.h.’.i.’.j.’.k.’.l.’.m.’.n.’.o.’.p.’.q.’.r.’.s.’.t.’.u.’.v.’.w.’.x.’.y.’.z.’
 .’a’.’b’.’c’.’d’.’e’.’f’.’g’.’h’.’i’.’j’.’k’.’l’.’m’.’n’.’o’.’p’.’q’.’r’.’s’.’t’.’u’.’v’.’w’.’x’.’y’.’z’.
 ‘.a.‘.b.‘.c.‘.d.‘.e.‘.f.‘.g.‘.h.‘.i.‘.j.‘.k.‘.l.‘.m.‘.n.‘.o.‘.p.‘.q.‘.r.‘.s.‘.t.‘.u.‘.v.‘.w.‘.x.‘.y.‘.z.‘
 .‘a‘.‘b‘.‘c‘.‘d‘.‘e‘.‘f‘.‘g‘.‘h‘.‘i‘.‘j‘.‘k‘.‘l‘.‘m‘.‘n‘.‘o‘.‘p‘.‘q‘.‘r‘.‘s‘.‘t‘.‘u‘.‘v‘.‘w‘.‘x‘.‘y‘.‘z‘.
-
 ’:a:’:b:’:c:’:d:’:e:’:f:’:g:’:h:’:i:’:j:’:k:’:l:’:m:’:n:’:o:’:p:’:q:’:r:’:s:’:t:’:u:’:v:’:w:’:x:’:y:’:z:’
 :’a’:’b’:’c’:’d’:’e’:’f’:’g’:’h’:’i’:’j’:’k’:’l’:’m’:’n’:’o’:’p’:’q’:’r’:’s’:’t’:’u’:’v’:’w’:’x’:’y’:’z’:
 ‘:a:‘:b:‘:c:‘:d:‘:e:‘:f:‘:g:‘:h:‘:i:‘:j:‘:k:‘:l:‘:m:‘:n:‘:o:‘:p:‘:q:‘:r:‘:s:‘:t:‘:u:‘:v:‘:w:‘:x:‘:y:‘:z:‘
 :‘a‘:‘b‘:‘c‘:‘d‘:‘e‘:‘f‘:‘g‘:‘h‘:‘i‘:‘j‘:‘k‘:‘l‘:‘m‘:‘n‘:‘o‘:‘p‘:‘q‘:‘r‘:‘s‘:‘t‘:‘u‘:‘v‘:‘w‘:‘x‘:‘y‘:‘z‘:
 
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Multi-Punctuation Kerning (Uppercase):
+’.A.’.B.’.C.’.D.’.E.’.F.’.G.’.H.’.I.’.J.’.K.’.L.’.M.’.N.’.O.’.P.’.Q.’.R.’.S.’.T.’.U.’.V.’.W.’.X.’.Y.’.Z.’
+.’A’.’B’.’C’.’D’.’E’.’F’.’G’.’H’.’I’.’J’.’K’.’L’.’M’.’N’.’O’.’P’.’Q’.’R’.’S’.’T’.’U’.’V’.’W’.’X’.’Y’.’Z’.
+‘.A.‘.B.‘.C.‘.D.‘.E.‘.F.‘.G.‘.H.‘.I.‘.J.‘.K.‘.L.‘.M.‘.N.‘.O.‘.P.‘.Q.‘.R.‘.S.‘.T.‘.U.‘.V.‘.W.‘.X.‘.Y.‘.Z.‘
+.‘A‘.‘B‘.‘C‘.‘D‘.‘E‘.‘F‘.‘G‘.‘H‘.‘I‘.‘J‘.‘K‘.‘L‘.‘M‘.‘N‘.‘O‘.‘P‘.‘Q‘.‘R‘.‘S‘.‘T‘.‘U‘.‘V‘.‘W‘.‘X‘.‘Y‘.‘Z‘.
+’:A:’:B:’:C:’:D:’:E:’:F:’:G:’:H:’:I:’:J:’:K:’:L:’:M:’:N:’:O:’:P:’:Q:’:R:’:S:’:T:’:U:’:V:’:W:’:X:’:Y:’:Z:’
+:’A’:’B’:’C’:’D’:’E’:’F’:’G’:’H’:’I’:’J’:’K’:’L’:’M’:’N’:’O’:’P’:’Q’:’R’:’S’:’T’:’U’:’V’:’W’:’X’:’Y’:’Z’:
+‘:A:‘:B:‘:C:‘:D:‘:E:‘:F:‘:G:‘:H:‘:I:‘:J:‘:K:‘:L:‘:M:‘:N:‘:O:‘:P:‘:Q:‘:R:‘:S:‘:T:‘:U:‘:V:‘:W:‘:X:‘:Y:‘:Z:‘
+:‘A‘:‘B‘:‘C‘:‘D‘:‘E‘:‘F‘:‘G‘:‘H‘:‘I‘:‘J‘:‘K‘:‘L‘:‘M‘:‘N‘:‘O‘:‘P‘:‘Q‘:‘R‘:‘S‘:‘T‘:‘U‘:‘V‘:‘W‘:‘X‘:‘Y‘:‘Z‘:
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Multi-Punctuation Kerning (SmallCaps):
+’.a.’.b.’.c.’.d.’.e.’.f.’.g.’.h.’.i.’.j.’.k.’.l.’.m.’.n.’.o.’.p.’.q.’.r.’.s.’.t.’.u.’.v.’.w.’.x.’.y.’.z.’
+.’a’.’b’.’c’.’d’.’e’.’f’.’g’.’h’.’i’.’j’.’k’.’l’.’m’.’n’.’o’.’p’.’q’.’r’.’s’.’t’.’u’.’v’.’w’.’x’.’y’.’z’.
+‘.a.‘.b.‘.c.‘.d.‘.e.‘.f.‘.g.‘.h.‘.i.‘.j.‘.k.‘.l.‘.m.‘.n.‘.o.‘.p.‘.q.‘.r.‘.s.‘.t.‘.u.‘.v.‘.w.‘.x.‘.y.‘.z.‘
+.‘a‘.‘b‘.‘c‘.‘d‘.‘e‘.‘f‘.‘g‘.‘h‘.‘i‘.‘j‘.‘k‘.‘l‘.‘m‘.‘n‘.‘o‘.‘p‘.‘q‘.‘r‘.‘s‘.‘t‘.‘u‘.‘v‘.‘w‘.‘x‘.‘y‘.‘z‘.
+’:a:’:b:’:c:’:d:’:e:’:f:’:g:’:h:’:i:’:j:’:k:’:l:’:m:’:n:’:o:’:p:’:q:’:r:’:s:’:t:’:u:’:v:’:w:’:x:’:y:’:z:’
+:’a’:’b’:’c’:’d’:’e’:’f’:’g’:’h’:’i’:’j’:’k’:’l’:’m’:’n’:’o’:’p’:’q’:’r’:’s’:’t’:’u’:’v’:’w’:’x’:’y’:’z’:
+‘:a:‘:b:‘:c:‘:d:‘:e:‘:f:‘:g:‘:h:‘:i:‘:j:‘:k:‘:l:‘:m:‘:n:‘:o:‘:p:‘:q:‘:r:‘:s:‘:t:‘:u:‘:v:‘:w:‘:x:‘:y:‘:z:‘
+:‘a‘:‘b‘:‘c‘:‘d‘:‘e‘:‘f‘:‘g‘:‘h‘:‘i‘:‘j‘:‘k‘:‘l‘:‘m‘:‘n‘:‘o‘:‘p‘:‘q‘:‘r‘:‘s‘:‘t‘:‘u‘:‘v‘:‘w‘:‘x‘:‘y‘:‘z‘:
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Slashes/Bar Kerning (Lowercase):
 //a//b//c//d//e//f//g//h//i//j//k//l//m//n//o//p//q//r//s//t//u//v//w//x//y//z//
 \a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z\
 |a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Slashes/Bar Kerning (Uppercase):
+//A//B//C//D//E//F//G//H//I//J//K//L//M//N//O//P//Q//R//S//T//U//V//W//X//Y//Z//
+\A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z\
+|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
+
+/slash.case A/slash.case B/slash.case C/slash.case D/slash.case E/slash.case F/slash.case G/slash.case H/slash.case I/slash.case J/slash.case K/slash.case L/slash.case M/slash.case N/slash.case O/slash.case P/slash.case Q/slash.case R/slash.case S/slash.case T/slash.case U/slash.case V/slash.case W/slash.case X/slash.case Y/slash.case Z/slash.case
+/backslash.case A/backslash.case B/backslash.case C/backslash.case D/backslash.case E/backslash.case F/backslash.case G/backslash.case H/backslash.case I/backslash.case J/backslash.case K/backslash.case L/backslash.case M/backslash.case N/backslash.case O/backslash.case P/backslash.case Q/backslash.case R/backslash.case S/backslash.case T/backslash.case U/backslash.case V/backslash.case W/backslash.case X/backslash.case Y/backslash.case Z/backslash.case 
+/bar.case A/bar.case B/bar.case C/bar.case D/bar.case E/bar.case F/bar.case G/bar.case H/bar.case I/bar.case J/bar.case K/bar.case L/bar.case M/bar.case N/bar.case O/bar.case P/bar.case Q/bar.case R/bar.case S/bar.case T/bar.case U/bar.case V/bar.case W/bar.case X/bar.case Y/bar.case Z/bar.case 
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Paren/Bracket/Brace Kerning (Lowercase):
+/Placeholder (/Placeholder )/Placeholder {/Placeholder }/Placeholder [/Placeholder ]/Placeholder
 
 (a(b(c(d(e(f(g(h(i(j(k(l(m(n(o(p(q(r(s(t(u(v(w(x(y(z(
 )a)b)c)d)e)f)g)h)i)j)k)l)m)n)o)p)q)r)s)t)u)v)w)x)y)z)
@@ -809,38 +923,9 @@ Punctuation Kerning:
 {a} {b} {c} {d} {e} {f} {g} {h} {i} {j} {k} {l} {m}
 {n} {o} {p} {q} {r} {s} {t} {u} {v} {w} {x} {y} {z}
 
--a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-
-–a–b–c–d–e–f–g–h–i–j–k–l–m–
-–n–o–p–q–r–s–t–u–v–w–x–y–z–
-—a—b—c—d—e—f—g—h—i—j—k—l—m—
-—n—o—p—q—r—s—t—u—v—w—x—y—z—
-_a_b_c_d_e_f_g_h_i_j_k_l_m_n_o_p_q_r_s_t_u_v_w_x_y_z_
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-+a+b+c+d+e+f+g+h+i+j+k+l+m+n+o+p+q+r+s+t+u+v+w+x+y+z+
-=a=b=c=d=e=f=g=h=i=j=k=l=m=n=o=p=q=r=s=t=u=v=w=x=y=z=
-
-’A’B’C’D’E’F’G’H’I’J’K’L’M’N’O’P’Q’R’S’T’U’V’W’X’Y’Z’
-‘A‘B‘C‘D‘E‘F‘G‘H‘I‘J‘K‘L‘M‘N‘O‘P‘Q‘R‘S‘T‘U‘V‘W‘X‘Y‘Z‘
-.A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.
-;A;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P;Q;R;S;T;U;V;W;X;Y;Z;
-:A:B:C:D:E:F:G:H:I:J:K:L:M:N:O:P:Q:R:S:T:U:V:W:X:Y:Z:
-“A“B“C“D“E“F“G“H“I“J“K“L“M“N“O“P“Q“R“S“T“U“V“W“X“Y“Z“
-”A”B”C”D”E”F”G”H”I”J”K”L”M”N”O”P”Q”R”S”T”U”V”W”X”Y”Z”
-
-’.A.’.B.’.C.’.D.’.E.’.F.’.G.’.H.’.I.’.J.’.K.’.L.’.M.’.N.’.O.’.P.’.Q.’.R.’.S.’.T.’.U.’.V.’.W.’.X.’.Y.’.Z.’
-.’A’.’B’.’C’.’D’.’E’.’F’.’G’.’H’.’I’.’J’.’K’.’L’.’M’.’N’.’O’.’P’.’Q’.’R’.’S’.’T’.’U’.’V’.’W’.’X’.’Y’.’Z’.
-‘.A.‘.B.‘.C.‘.D.‘.E.‘.F.‘.G.‘.H.‘.I.‘.J.‘.K.‘.L.‘.M.‘.N.‘.O.‘.P.‘.Q.‘.R.‘.S.‘.T.‘.U.‘.V.‘.W.‘.X.‘.Y.‘.Z.‘
-.‘A‘.‘B‘.‘C‘.‘D‘.‘E‘.‘F‘.‘G‘.‘H‘.‘I‘.‘J‘.‘K‘.‘L‘.‘M‘.‘N‘.‘O‘.‘P‘.‘Q‘.‘R‘.‘S‘.‘T‘.‘U‘.‘V‘.‘W‘.‘X‘.‘Y‘.‘Z‘.
-
-’:A:’:B:’:C:’:D:’:E:’:F:’:G:’:H:’:I:’:J:’:K:’:L:’:M:’:N:’:O:’:P:’:Q:’:R:’:S:’:T:’:U:’:V:’:W:’:X:’:Y:’:Z:’
-:’A’:’B’:’C’:’D’:’E’:’F’:’G’:’H’:’I’:’J’:’K’:’L’:’M’:’N’:’O’:’P’:’Q’:’R’:’S’:’T’:’U’:’V’:’W’:’X’:’Y’:’Z’:
-‘:A:‘:B:‘:C:‘:D:‘:E:‘:F:‘:G:‘:H:‘:I:‘:J:‘:K:‘:L:‘:M:‘:N:‘:O:‘:P:‘:Q:‘:R:‘:S:‘:T:‘:U:‘:V:‘:W:‘:X:‘:Y:‘:Z:‘
-:‘A‘:‘B‘:‘C‘:‘D‘:‘E‘:‘F‘:‘G‘:‘H‘:‘I‘:‘J‘:‘K‘:‘L‘:‘M‘:‘N‘:‘O‘:‘P‘:‘Q‘:‘R‘:‘S‘:‘T‘:‘U‘:‘V‘:‘W‘:‘X‘:‘Y‘:‘Z‘:
-
-//A//B//C//D//E//F//G//H//I//J//K//L//M//N//O//P//Q//R//S//T//U//V//W//X//Y//Z//
-\A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z\
-|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
-
+Paren/Bracket/Brace Kerning (Uppercase):
 (A(B(C(D(E(F(G(H(I(J(K(L(M(N(O(P(Q(R(S(T(U(V(W(X(Y(Z(
 )A)B)C)D)E)F)G)H)I)J)K)L)M)N)O)P)Q)R)S)T)U)V)W)X)Y)Z)
 (A) (B) (C) (D) (E) (F) (G) (H) (I) (J) (K) (L) (M) 
@@ -856,6 +941,65 @@ _a_b_c_d_e_f_g_h_i_j_k_l_m_n_o_p_q_r_s_t_u_v_w_x_y_z_
 {A} {B} {C} {D} {E} {F} {G} {H} {I} {J} {K} {L} {M}
 {N} {O} {P} {Q} {R} {S} {T} {U} {V} {W} {X} {Y} {Z}
 
+/parenleft.case A/parenleft.case B/parenleft.case C/parenleft.case D/parenleft.case E/parenleft.case F/parenleft.case G/parenleft.case H/parenleft.case I/parenleft.case J/parenleft.case K/parenleft.case L/parenleft.case M/parenleft.case N/parenleft.case O/parenleft.case P/parenleft.case Q/parenleft.case R/parenleft.case S/parenleft.case T/parenleft.case U/parenleft.case V/parenleft.case W/parenleft.case X/parenleft.case Y/parenleft.case Z/parenleft.case 
+/parenright/case A/parenright/case B/parenright/case C/parenright/case D/parenright/case E/parenright/case F/parenright/case G/parenright/case H/parenright/case I/parenright/case J/parenright/case K/parenright/case L/parenright/case M/parenright/case N/parenright/case O/parenright/case P/parenright/case Q/parenright/case R/parenright/case S/parenright/case T/parenright/case U/parenright/case V/parenright/case W/parenright/case X/parenright/case Y/parenright/case Z/parenright/case 
+/parenleft.case A/parenright/case  /parenleft.case B/parenright/case  /parenleft.case C/parenright/case  /parenleft.case D/parenright/case  /parenleft.case E/parenright/case  /parenleft.case F/parenright/case  /parenleft.case G/parenright/case  /parenleft.case H/parenright/case  /parenleft.case I/parenright/case  /parenleft.case J/parenright/case  /parenleft.case K/parenright/case  /parenleft.case L/parenright/case  /parenleft.case M/parenright/case  
+/parenleft.case N/parenright/case  /parenleft.case O/parenright/case  /parenleft.case P/parenright/case  /parenleft.case Q/parenright/case  /parenleft.case R/parenright/case  /parenleft.case S/parenright/case  /parenleft.case T/parenright/case  /parenleft.case U/parenright/case  /parenleft.case V/parenright/case  /parenleft.case W/parenright/case  /parenleft.case X/parenright/case  /parenleft.case Y/parenright/case  /parenleft.case Z/parenright/case 
+
+/bracketleft.case A/bracketleft.case B/bracketleft.case C/bracketleft.case D/bracketleft.case E/bracketleft.case F/bracketleft.case G/bracketleft.case H/bracketleft.case I/bracketleft.case J/bracketleft.case K/bracketleft.case L/bracketleft.case M/bracketleft.case N/bracketleft.case O/bracketleft.case P/bracketleft.case Q/bracketleft.case R/bracketleft.case S/bracketleft.case T/bracketleft.case U/bracketleft.case V/bracketleft.case W/bracketleft.case X/bracketleft.case Y/bracketleft.case Z/bracketleft.case 
+/bracketright.case A/bracketright.case B/bracketright.case C/bracketright.case D/bracketright.case E/bracketright.case F/bracketright.case G/bracketright.case H/bracketright.case I/bracketright.case J/bracketright.case K/bracketright.case L/bracketright.case M/bracketright.case N/bracketright.case O/bracketright.case P/bracketright.case Q/bracketright.case R/bracketright.case S/bracketright.case T/bracketright.case U/bracketright.case V/bracketright.case W/bracketright.case X/bracketright.case Y/bracketright.case Z/bracketright.case 
+/bracketleft.case A/bracketright.case  /bracketleft.case B/bracketright.case  /bracketleft.case C/bracketright.case  /bracketleft.case D/bracketright.case  /bracketleft.case E/bracketright.case  /bracketleft.case F/bracketright.case  /bracketleft.case G/bracketright.case  /bracketleft.case H/bracketright.case  /bracketleft.case I/bracketright.case  /bracketleft.case J/bracketright.case  /bracketleft.case K/bracketright.case  /bracketleft.case L/bracketright.case  /bracketleft.case M/bracketright.case 
+/bracketleft.case N/bracketright.case  /bracketleft.case O/bracketright.case  /bracketleft.case P/bracketright.case  /bracketleft.case Q/bracketright.case  /bracketleft.case R/bracketright.case  /bracketleft.case S/bracketright.case  /bracketleft.case T/bracketright.case  /bracketleft.case U/bracketright.case  /bracketleft.case V/bracketright.case  /bracketleft.case W/bracketright.case  /bracketleft.case X/bracketright.case  /bracketleft.case Y/bracketright.case  /bracketleft.case Z/bracketright.case 
+
+/braceleft.case A/braceleft.case B/braceleft.case C/braceleft.case D/braceleft.case E/braceleft.case F/braceleft.case G/braceleft.case H/braceleft.case I/braceleft.case J/braceleft.case K/braceleft.case L/braceleft.case M/braceleft.case N/braceleft.case O/braceleft.case P/braceleft.case Q/braceleft.case R/braceleft.case S/braceleft.case T/braceleft.case U/braceleft.case V/braceleft.case W/braceleft.case X/braceleft.case Y/braceleft.case Z/braceleft.case 
+/braceright.case A/braceright.case B/braceright.case C/braceright.case D/braceright.case E/braceright.case F/braceright.case G/braceright.case H/braceright.case I/braceright.case J/braceright.case K/braceright.case L/braceright.case M/braceright.case N/braceright.case O/braceright.case P/braceright.case Q/braceright.case R/braceright.case S/braceright.case T/braceright.case U/braceright.case V/braceright.case W/braceright.case X/braceright.case Y/braceright.case Z/braceright.case 
+/braceleft.case A/braceright.case  /braceleft.case B/braceright.case  /braceleft.case C/braceright.case  /braceleft.case D/braceright.case  /braceleft.case E/braceright.case  /braceleft.case F/braceright.case  /braceleft.case G/braceright.case  /braceleft.case H/braceright.case  /braceleft.case I/braceright.case  /braceleft.case J/braceright.case  /braceleft.case K/braceright.case  /braceleft.case L/braceright.case  /braceleft.case M/braceright.case 
+/braceleft.case N/braceright.case  /braceleft.case O/braceright.case  /braceleft.case P/braceright.case  /braceleft.case Q/braceright.case  /braceleft.case R/braceright.case  /braceleft.case S/braceright.case  /braceleft.case T/braceright.case  /braceleft.case U/braceright.case  /braceleft.case V/braceright.case  /braceleft.case W/braceright.case  /braceleft.case X/braceright.case  /braceleft.case Y/braceright.case  /braceleft.case Z/braceright.case 
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Guillemet (lowercase):
+‹a‹b‹c‹d‹e‹f‹g‹h‹i‹j‹k‹l‹m‹n‹o‹p‹q‹r‹s‹t‹u‹v‹w‹x‹y‹z‹
+›a›b›c›d›e›f›g›h›i›j›k›l›m›n›o›p›q›r›s›t›u›v›w›x›y›z›
+‹a› ‹b› ‹c› ‹d› ‹e› ‹f› ‹g› ‹h› ‹i› ‹j› ‹k› ‹l› ‹m›
+‹n› ‹o› ‹p› ‹q› ‹r› ‹s› ‹t› ‹u› ‹v› ‹w› ‹x› ‹y› ‹z›
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Guillemet (uppercase):
+‹A‹B‹C‹D‹E‹F‹G‹H‹I‹J‹K‹L‹M‹N‹O‹P‹Q‹R‹S‹T‹U‹V‹W‹X‹Y‹Z‹
+›A›B›C›D›E›F›G›H›I›J›K›L›M›N›O›P›Q›R›S›T›U›V›W›X›Y›Z›
+‹A› ‹B› ‹C› ‹D› ‹E› ‹F› ‹G› ‹H› ‹I› ‹J› ‹K› ‹L› ‹M›
+‹N› ‹O› ‹P› ‹Q› ‹R› ‹S› ‹T› ‹U› ‹V› ‹W› ‹X› ‹Y› ‹Z›
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Paren/Bracket/Brace Kerning (Numbers):
+(1(2(3(4(5(6(7(8(9(0(
+)1)2)3)4)5)6)7)8)9)0)
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (0)
+
+[1[2[3[4[5[6[7[8[9[0[
+]1]2]3]4]5]6]7]8]9]0]
+[1] [2] [3] [4] [5] [6] [7] [8] [9] [0]
+
+{1{2{3{4{5{6{7{8{9{0{
+}1}2}3}4}5}6}7}8}9}0}
+{1} {2} {3} {4} {5} {6} {7} {8} {9} {0}
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Dash Kerning (Lowercase):
+-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-
+–a–b–c–d–e–f–g–h–i–j–k–l–m–
+–n–o–p–q–r–s–t–u–v–w–x–y–z–
+—a—b—c—d—e—f—g—h—i—j—k—l—m—
+—n—o—p—q—r—s—t—u—v—w—x—y—z—
+_a_b_c_d_e_f_g_h_i_j_k_l_m_n_o_p_q_r_s_t_u_v_w_x_y_z_
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Dash Kerning (Uppercase):
 -A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z-
 –A–B–C–D–E–F–G–H–I–J–K–L–M–
 –N–O–P–Q–R–S–T–U–V–W–X–Y–Z–
@@ -870,10 +1014,23 @@ _A_B_C_D_E_F_G_H_I_J_K_L_M_N_O_P_Q_R_S_T_U_V_W_X_Y_Z_
 /emdash.case A/emdash.case B/emdash.case C/emdash.case D/emdash.case E/emdash.case F/emdash.case G/emdash.case H/emdash.case I/emdash.case J/emdash.case K/emdash.case L/emdash.case M/emdash.case
 /emdash.case N/emdash.case O/emdash.case P/emdash.case Q/emdash.case R/emdash.case S/emdash.case T/emdash.case U/emdash.case V/emdash.case W/emdash.case X/emdash.case Y/emdash.case Z/emdash.case 
 
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Dash Kerning (Num):
+-1-2-3-4-5-6-7-8-9-0-
+–1–2–3–4–5–6–7–8–9–0–
+—1—2—3—4—5—6—7—8—9—0—
+_1_2_3_4_5_6_7_8_9_0_
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Math Symbols Kerning (Lowercase):
++a+b+c+d+e+f+g+h+i+j+k+l+m+n+o+p+q+r+s+t+u+v+w+x+y+z+
+=a=b=c=d=e=f=g=h=i=j=k=l=m=n=o=p=q=r=s=t=u=v=w=x=y=z=
+
+Math Symbols Kerning (Uppercase):
 +A+B+C+D+E+F+G+H+I+J+K+L+M+N+O+P+Q+R+S+T+U+V+W+X+Y+Z+
 =A=B=C=D=E=F=G=H=I=J=K=L=M=N=O=P=Q=R=S=T=U=V=W=X=Y=Z=
-
-/Placeholder (/Placeholder )/Placeholder {/Placeholder }/Placeholder [/Placeholder ]/Placeholder
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
@@ -906,10 +1063,14 @@ iłiøiǿiħiŧi/tbar.ss01 iðiđi
 
 Bar/Slash Characters:
 ŁØǾĦŦÐ
-ŁØǾĦŦÐ
 łøǿħŧ/tbar.ss01 ðđ 
-łøǿħŧ/tbar.ss01 ðđ
 /lslash.sc/oslash.sc/oslashacute.sc/h.sc/hbar.sc/tbar.sc/eth.sc
-₵¢₡$₫€₣₲₴₭₤₺₼₦₧₱₽₹£₸₮₩¥
+₵¢₡$€₣₲₴₭₤₺₼₦₧₱₽₹£₸₮₩¥
+/cedi.osf/cent.osf/colonsign.osf/dollar.osf/euro.osf/franc.osf/guarani.osf/hryvnia.osf/kip.osf/lira.osf/liraTurkish.osf/manat.osf/naira.osf/peseta.osf/peso.osf/ruble.osf/rupeeIndian.osf/sterling.osf/tenge.osf/tugrik.osf/won.osf/yen.osf
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+Bracket Layers:
+ĦØÞđħøỵ/j_j.liga/hbar.sc/oslash.sc/thorn.sc ,‘’₫¶̦
 
 
