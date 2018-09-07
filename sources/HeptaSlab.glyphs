@@ -140994,7 +140994,7 @@ components = (
 {
 alignment = -1;
 name = period;
-transform = "{1, 0, 0, 1, 38, 332}";
+transform = "{1, 0, 0, 1, 0, 332}";
 },
 {
 alignment = -1;
@@ -141002,7 +141002,7 @@ name = comma;
 }
 );
 layerId = "A59F1195-5331-40FD-8BD6-3900E1073F61";
-width = 186;
+width = 148;
 }
 );
 leftKerningGroup = colon;
@@ -202736,6 +202736,7 @@ rightMetricsKey = "=40";
 );
 instances = (
 {
+exports = 0;
 customParameters = (
 {
 name = preferredFamilyName;
@@ -202761,6 +202762,30 @@ instanceInterpolations = {
 "67AEAADB-8447-4819-9D92-8BB76BD22042" = 1;
 };
 name = Regular;
+},
+{
+customParameters = (
+{
+name = "Remove Glyphs";
+value = (
+"A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy De-cy.loclBGR Ie-cy Iegrave-cy Io-cy Zhe-cy Zhe-cy.loclBGR Ze-cy Ii-cy Ii-cy.loclBGR Iishort-cy Iishort-cy.loclBGR Iigrave-cy Iigrave-cy.loclBGR Ka-cy Ka-cy.loclBGR Kje-cy Kje-cy.loclBGR El-cy El-cy.loclBGR Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ef-cy.loclBGR Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Lje-cy.loclBGR Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kabashkir-cy Endescender-cy Enghe-cy Esdescender-cy Ustrait-cy Ustraitstroke-cy Hadescender-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Palochka-cy Zhebreve-cy Chekhakassian-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Zhedieresis-cy Zedieresis-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Qa-cy We-cy a-cy be-cy be-cy.loclMKD be-cy.loclSRB ve-cy ve-cy.loclBGR ge-cy ge-cy.loclBGR gje-cy gje-cy.loclBGR gheupturn-cy de-cy de-cy.loclBGR ie-cy iegrave-cy io-cy zhe-cy zhe-cy.loclBGR ze-cy ze-cy.loclBGR ii-cy ii-cy.loclBGR iishort-cy iishort-cy.loclBGR iigrave-cy iigrave-cy.loclBGR ka-cy ka-cy.loclBGR kje-cy kje-cy.loclBGR el-cy el-cy.loclBGR em-cy en-cy en-cy.loclBGR o-cy pe-cy pe-cy.loclBGR er-cy es-cy te-cy te-cy.loclBGR u-cy ushort-cy ef-cy ef-cy.loclBGR ha-cy che-cy che-cy.loclBGR tse-cy tse-cy.loclBGR sha-cy sha-cy.loclBGR shcha-cy shcha-cy.loclBGR dzhe-cy dzhe-cy.loclBGR softsign-cy softsign-cy.loclBGR hardsign-cy hardsign-cy.loclBGR yeru-cy yeru-cy.loclBGR lje-cy lje-cy.loclBGR nje-cy nje-cy.loclBGR dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy iu-cy.loclBGR ia-cy dje-cy yat-cy yusbig-cy fita-cy izhitsa-cy ghestroke-cy ghemiddlehook-cy zhedescender-cy zedescender-cy kadescender-cy kaverticalstroke-cy kabashkir-cy endescender-cy enghe-cy esdescender-cy ustrait-cy ustraitstroke-cy hadescender-cy chedescender-cy cheverticalstroke-cy shha-cy palochka-cy zhebreve-cy chekhakassian-cy abreve-cy adieresis-cy aie-cy iebreve-cy schwa-cy zhedieresis-cy zedieresis-cy imacron-cy idieresis-cy odieresis-cy obarred-cy umacron-cy udieresis-cy uhungarumlaut-cy chedieresis-cy gedescender-cy yerudieresis-cy qa-cy we-cy brevecomb-cy descender-cy"
+);
+},
+{
+name = "TTFAutohint options";
+value = "--detailed-info";
+},
+{
+name = weightClass;
+value = 0;
+}
+);
+interpolationWeight = 5;
+instanceInterpolations = {
+"67AEAADB-8447-4819-9D92-8BB76BD22042" = 1;
+};
+name = Hairline;
+weightClass = Thin;
 },
 {
 customParameters = (

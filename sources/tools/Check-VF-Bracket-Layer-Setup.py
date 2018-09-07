@@ -11,6 +11,7 @@ import GlyphsApp
 import re
 
 missingBrackets = []
+getBrackets = []
 
 font = Glyphs.font
 
