@@ -207787,7 +207787,7 @@ value = "--detailed-info";
 },
 {
 name = weightClass;
-value = 0;
+value = 1;
 }
 );
 interpolationWeight = 5;
