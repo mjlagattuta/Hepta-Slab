@@ -145539,7 +145539,7 @@ name = quoteright;
 {
 alignment = -1;
 name = quoteright;
-transform = "{1, 0, 0, 1, 94.753, 0}";
+transform = "{1, 0, 0, 1, 95, 0}";
 }
 );
 layerId = "A59F1195-5331-40FD-8BD6-3900E1073F61";
@@ -145614,7 +145614,7 @@ associatedMasterId = "2C5E45D0-97E8-45AA-A5B2-946753DF54E1";
 components = (
 {
 name = comma;
-transform = "{-1, 0, 0, -1, 281, 595}";
+transform = "{-1, 0, 0, -1, 281, 613}";
 }
 );
 layerId = "E9D3FDCB-9671-4ED2-B74F-DA9839D6FDAA";
@@ -145626,7 +145626,7 @@ associatedMasterId = "BE4E587A-F76C-447B-AA28-A45E40876AAF";
 components = (
 {
 name = comma;
-transform = "{-1, 0, 0, -1, 302, 593}";
+transform = "{-1, 0, 0, -1, 302, 603}";
 }
 );
 layerId = "BE967F72-F243-436B-9DDF-103A728573EE";
@@ -145638,7 +145638,7 @@ associatedMasterId = "67AEAADB-8447-4819-9D92-8BB76BD22042";
 components = (
 {
 name = comma;
-transform = "{-1, 0, 0, -1, 93, 641}";
+transform = "{-1, 0, 0, -1, 93, 692}";
 }
 );
 layerId = "C8C33EF2-1DE2-47DF-BC56-1EAA9B6A11FC";
@@ -145738,7 +145738,7 @@ associatedMasterId = "BE4E587A-F76C-447B-AA28-A45E40876AAF";
 components = (
 {
 name = comma;
-transform = "{1, 0, 0, 1, 0, 532}";
+transform = "{1, 0, 0, 1, 0, 602}";
 }
 );
 layerId = "329755BE-C454-46CD-8E32-904489E9199F";
@@ -180115,16 +180115,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"112 -112 LINE SMOOTH",
-"112 -128 OFFCURVE",
-"103 -137 OFFCURVE",
-"88 -137 CURVE",
-"88 -245 LINE",
-"234 -245 OFFCURVE",
-"289 -205 OFFCURVE",
-"289 -112 CURVE SMOOTH",
-"289 -56 LINE",
-"112 -56 LINE"
+"112 -87 LINE SMOOTH",
+"112 -103 OFFCURVE",
+"103 -112 OFFCURVE",
+"88 -112 CURVE",
+"88 -220 LINE",
+"233 -220 OFFCURVE",
+"289 -180 OFFCURVE",
+"289 -87 CURVE SMOOTH",
+"289 -51 LINE",
+"112 -51 LINE"
 );
 }
 );
