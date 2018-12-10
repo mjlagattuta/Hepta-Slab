@@ -236,32 +236,44 @@ def normalizeValues(location):
             location[value] = None
         if location[value] != None:
             axisValue = location[value]
+            rMax = fontAxes['axis' + str(value + 1)]['max']
+            rMin = fontAxes['axis' + str(value + 1)]['min']
             sMax = fontAxes['axis' + str(value + 1)]['sMax']
             sMin = fontAxes['axis' + str(value + 1)]['sMin']
             mDef = fontAxes['axis' + str(value + 1)]['mDef']
             sDef = fontAxes['axis' + str(value + 1)]['sDef']
+            scaledValue = ((axisValue - rMin) / (rMax - rMin)) * (sMax - sMin) + sMin
 
-            if fontAxes['axis' + str(value + 1)]['tag'] == 'wght':
-                if weightMapDict.get(axisValue) != None:
-                    mappedValue = weightMapDict[axisValue]
-                else:
-                    for mapIndex in range(len(weightMap)):
-                        if axisValue > weightMap[mapIndex][0]:
-                            pass
-                        else:
-                            thisMap = weightMap[mapIndex]
-                            prevMap = weightMap[mapIndex - 1]
-                            mappedValue = ((axisValue - prevMap[0]) / (thisMap[0] - prevMap[0])) * (thisMap[1] - prevMap[1]) + prevMap[1]
-                            break
-            else:
-                mappedValue = axisValue
+            # if fontAxes['axis' + str(value + 1)]['tag'] == 'wght':
+            #     if weightMapDict.get(axisValue) != None:
+            #         mappedValue = weightMapDict[axisValue]
+            #     else:
+            #         for mapIndex in range(len(weightMap)):
+            #             if axisValue > weightMap[mapIndex][0]:
+            #                 pass
+            #             else:
+            #                 thisMap = weightMap[mapIndex]
+            #                 prevMap = weightMap[mapIndex - 1]
+            #                 mappedValue = ((axisValue - prevMap[0]) / (thisMap[0] - prevMap[0])) * (thisMap[1] - prevMap[1]) + prevMap[1]
+            #                 break
+            # else:
+            #     mappedValue = axisValue
 
-            mappedValue = mappedValue * 1.0
+            # mappedValue = mappedValue * 1.0
 
-            if mappedValue <= mDef and sMin != sDef:
-                normValue = ((mappedValue - sMin) / (mDef - sMin)) - 1
-            elif mappedValue >= mDef:
-                normValue = (mappedValue - mDef) / (sMax - mDef)
+            # Calc normalized "from" value
+            # if mappedValue <= mDef and sMin != sDef:
+            #     normValue = ((mappedValue - sMin) / (mDef - sMin)) - 1
+            # elif mappedValue >= mDef:
+            #     normValue = (mappedValue - mDef) / (sMax - mDef)
+            # else:
+            #     print "ERROR Normalizing value %s on %s axis" % (axisValue, fontAxes['axis' + str(value + 1)]['tag'])
+
+            # Calc normalized "to" value
+            if scaledValue <= sDef and sMin != sDef:
+                normValue = ((scaledValue - sMin) / (sDef - sMin)) - 1
+            elif scaledValue >= sDef:
+                normValue = (scaledValue - sDef) / (sMax - sDef)
             else:
                 print "ERROR Normalizing value %s on %s axis" % (axisValue, fontAxes['axis' + str(value + 1)]['tag'])
 
