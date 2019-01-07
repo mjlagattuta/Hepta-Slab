@@ -1,8 +1,6 @@
 # Script to build brace layers
-## This script converts the input .glyphs file into a form with bracket layers converted to suffixed glyphs so that fontmake can generate the VF
-## It uses the parsed bracket values to then generate a script to run on the final ttf using fonttools to enable the GSUB feature
-
-# TODO
+## Slices a glyphs file into single glyph files and moves brace layers to master layers
+## Using a bash script the generated glyf and gvar data can then be inserted into the final font file
 
 import sys
 import os
@@ -33,7 +31,7 @@ for baseIndex in nonExportGlyphs:
     del font._glyphs[baseIndex]
 
 font.save(filename)
-print "Build File Saved"
+print "Removed all nonexporting glyphs, build file saved"
 
 braceSources = []
 
@@ -65,15 +63,6 @@ for glyphIndex, glyph in enumerate(font.glyphs):
         braceFont.classes = ()
         braceFont.kerning = {}
 
-        # for feature in braceFont.features:
-        #     braceFont.features.pop()
-
-        # for eachClass in braceFont.classes:
-        #     braceFont.classes.pop()
-
-        # for prefix in braceFont.featurePrefixes:
-        #     braceFont.featurePrefixes.pop()
-
         glyphName = glyph.name
         keepOneGlyph(braceFont, glyphName)
 
@@ -97,7 +86,7 @@ for glyphIndex, glyph in enumerate(font.glyphs):
             del braceFont.glyphs[0].layers[master[1]]
 
         braceFont.save("brace-sources/" + braceFilename)
-        print "Saved file:" + glyph.name + "-source.glyphs"
+        print "Saved file:" + braceFilename
 
 end = time.time()
 print end - start
