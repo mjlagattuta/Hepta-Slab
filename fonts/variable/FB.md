@@ -134,6 +134,13 @@ Fontbakery version: 0.6.6
 
 </details>
 <details>
+<summary>:bread: <b>PASS:</b> Is the command `ftxvalidator` (Apple Font Tool Suite) available?</summary>
+
+* [com.google.fonts/check/ftxvalidator_is_available](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/ftxvalidator_is_available)
+* :bread: **PASS** ftxvalidator is available.
+
+</details>
+<details>
 <summary>:bread: <b>PASS:</b> Fonts have equal unicode encodings?</summary>
 
 * [com.google.fonts/check/013](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/013)
@@ -175,13 +182,6 @@ Fontbakery version: 0.6.6
 * :warning: **WARN** Family not found via Google Fonts API.
 
 </details>
-<details>
-<summary>:warning: <b>WARN:</b> Is the command `ftxvalidator` (Apple Font Tool Suite) available?</summary>
-
-* [com.google.fonts/check/ftxvalidator_is_available](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/ftxvalidator_is_available)
-* :warning: **WARN** ftxvalidator is not available.
-
-</details>
 <br>
 </details>
 <details>
@@ -211,13 +211,6 @@ ERROR: GDEF: Invalid ligature caret list
 ERROR: GDEF: Failed to parse table
 Failed to sanitize file!
 
-
-</details>
-<details>
-<summary>:warning: <b>WARN:</b> Stricter unitsPerEm criteria for Google Fonts. </summary>
-
-* [com.google.fonts/check/116](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/116)
-* :warning: **WARN** Even though unitsPerEm (1000) in this font is reasonable. It is strongly advised to consider changing it to 2000, since it will liely improve the quality of Variable Fonts by avoiding excessive rounding of coordinates on interpolations.
 
 </details>
 <details>
@@ -525,13 +518,6 @@ Failed to sanitize file!
 
 </details>
 <details>
-<summary>:zzz: <b>SKIP:</b> Checking with ftxvalidator.</summary>
-
-* [com.google.fonts/check/035](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/035)
-* :zzz: **SKIP** Unfulfilled Conditions: ftxvalidator_is_available
-
-</details>
-<details>
 <summary>:zzz: <b>SKIP:</b> FontForge validation outputs error messages?</summary>
 
 * [com.google.fonts/check/038](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/038)
@@ -595,9 +581,9 @@ Failed to sanitize file!
 
 |  | HeptaSlab-VF.ttf |
 |:--- | ---:|
-| Dehinted Size | 478.6kb |
-| Hinted Size | 477.7kb |
-| Increase | -960 bytes |
+| Dehinted Size | 503.4kb |
+| Hinted Size | 502.6kb |
+| Increase | -860 bytes |
 | Change   | -0.2 % |
 
 
@@ -645,7 +631,7 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 <summary>:information_source: <b>INFO:</b> Font contains all required tables?</summary>
 
 * [com.google.fonts/check/052](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/052)
-* :information_source: **INFO** This font contains the following optional tables [prep, loca, DSIG, GSUB, GPOS, gasp]
+* :information_source: **INFO** This font contains the following optional tables [gasp, prep, GPOS, loca, GSUB, DSIG]
 * :bread: **PASS** Font contains all required tables.
 
 </details>
@@ -741,6 +727,13 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 </details>
 <details>
+<summary>:bread: <b>PASS:</b> Stricter unitsPerEm criteria for Google Fonts. </summary>
+
+* [com.google.fonts/check/116](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/116)
+* :bread: **PASS** Font em size is good (unitsPerEm = 2000).
+
+</details>
+<details>
 <summary>:bread: <b>PASS:</b> Length of copyright notice must not exceed 500 characters. </summary>
 
 * [com.google.fonts/check/164](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/164)
@@ -818,6 +811,13 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 </details>
 <details>
+<summary>:bread: <b>PASS:</b> Checking with ftxvalidator.</summary>
+
+* [com.google.fonts/check/035](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/035)
+* :bread: **PASS** ftxvalidator passed this file
+
+</details>
+<details>
 <summary>:bread: <b>PASS:</b> Font contains .notdef as first glyph?</summary>
 
 * [com.google.fonts/check/046](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/046)
@@ -891,7 +891,7 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 <summary>:bread: <b>PASS:</b> Checking unitsPerEm value is reasonable.</summary>
 
 * [com.google.fonts/check/043](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/043)
-* :bread: **PASS** unitsPerEm value (1000) on the 'head' table is reasonable.
+* :bread: **PASS** unitsPerEm value (2000) on the 'head' table is reasonable.
 
 </details>
 <details>
@@ -1055,5 +1055,5 @@ The version string must ideally include a git commit hash and either a 'dev' or 
 
 | :broken_heart: ERROR | :fire: FAIL | :warning: WARN | :zzz: SKIP | :information_source: INFO | :bread: PASS |
 |:-----:|:----:|:----:|:----:|:----:|:----:|
-| 1 | 2 | 5 | 49 | 7 | 79 |
-| 1% | 1% | 3% | 34% | 5% | 55% |
+| 1 | 2 | 3 | 48 | 7 | 82 |
+| 1% | 1% | 2% | 34% | 5% | 57% |
