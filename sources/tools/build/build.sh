@@ -1,4 +1,4 @@
-cp HeptaSlab.glyphs HeptaSlabBuild.glyphs
+mv HeptaSlab-2x.glyphs HeptaSlabBuild.glyphs
 
 mkdir brace-sources
 mkdir brace-ttfs
