@@ -15,7 +15,7 @@
         <AxisIndex value="0"/>
         <Flags value="0"/>
         <ValueNameID value="257"/>  <!-- Hairline -->
-        <Value value="0.0"/>
+        <Value value="1.0"/>
       </AxisValue>
       <AxisValue index="1" Format="1">
         <AxisIndex value="0"/>
