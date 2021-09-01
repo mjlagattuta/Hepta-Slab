@@ -46,6 +46,9 @@ This font repository structure is inspired by [Unified Font Repository v0.3](htt
 ## ChangeLog
 When you make modifications, be sure to add a description of your changes, following the format of the other entries, to the start of this section.
 
+**1 Sep 2021 (Aaron Bell) ‘Hepta Slab’ v1.101**
+* Converted to UFR
+
 **23 May 2018 (Mike LaGattuta) ‘Hepta Slab’ v0.016**
 * Added more kerning pairs
 
