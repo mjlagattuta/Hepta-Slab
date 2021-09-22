@@ -62,6 +62,10 @@ value = 1;
 {
 name = "Use Extension Kerning";
 value = 1;
+},
+{
+name = "Variable Font Origin";
+value = "A59F1195-5331-40FD-8BD6-3900E1073F61";
 }
 );
 date = "2018-07-12 14:31:50 +0000";
@@ -232079,5 +232083,5 @@ nd = "203";
 };
 };
 versionMajor = 1;
-versionMinor = 101;
+versionMinor = 102;
 }
